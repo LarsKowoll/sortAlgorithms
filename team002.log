@@ -1,0 +1,21 @@
+Insertion Sort Zufallszahlen 145 Zahlen Startzeit: 19.11 17:09:49,965|Endezeit: 19.11 17:09:49,965| Diff: 0 ms Sortiert: true
+Insertion Sort aufsteigend 145 Zahlen Startzeit: 19.11 17:09:49,965|Endezeit: 19.11 17:09:49,980| Diff: 15 ms Sortiert: true
+Insertion Sort absteigend 145 Zahlen Startzeit: 19.11 17:09:49,980|Endezeit: 19.11 17:09:49,980| Diff: 0 ms Sortiert: true
+Quick Sort middle Zufallszahlen Wechsel bei 75, 1456 Zahlen Startzeit: 19.11 17:09:49,965|Endezeit: 19.11 17:09:49,965| Diff: 0 ms Sortiert: true
+Quick Sort middle aufsteigend 1456 Zahlen Startzeit: 19.11 17:09:49,965|Endezeit: 19.11 17:09:49,980| Diff: 15 ms Sortiert: true
+Quick Sort middle absteigend 1456 Zahlen Startzeit: 19.11 17:09:49,980|Endezeit: 19.11 17:09:49,980| Diff: 0 ms Sortiert: true
+Quick Sort median Zufallszahlen Wechsel bei 75, 1456 Zahlen Startzeit: 19.11 17:09:49,965|Endezeit: 19.11 17:09:49,965| Diff: 0 ms Sortiert: true
+Quick Sort median aufsteigend 1456 Zahlen Startzeit: 19.11 17:09:49,965|Endezeit: 19.11 17:09:49,980| Diff: 15 ms Sortiert: true
+Quick Sort median absteigend 1456 Zahlen Startzeit: 19.11 17:09:49,980|Endezeit: 19.11 17:09:49,980| Diff: 0 ms Sortiert: true
+Heap Sort Zufallszahlen 1456 Zahlen Startzeit: 19.11 17:09:49,965|Endezeit: 19.11 17:09:49,980| Diff: 15 ms Sortiert: true
+Heap Sort aufsteigend 1456 Zahlen Startzeit: 19.11 17:09:49,980|Endezeit: 19.11 17:09:49,980| Diff: 0 ms Sortiert: true
+Heap Sort absteigend 1456 Zahlen Startzeit: 19.11 17:09:49,980|Endezeit: 19.11 17:09:49,980| Diff: 0 ms Sortiert: true
+Quick Sort random Zufallszahlen Wechsel bei 75, 1456 Zahlen Startzeit: 19.11 17:09:49,965|Endezeit: 19.11 17:09:49,980| Diff: 15 ms Sortiert: true
+Quick Sort random aufsteigend 1456 Zahlen Startzeit: 19.11 17:09:49,980|Endezeit: 19.11 17:09:49,996| Diff: 16 ms Sortiert: true
+Quick Sort random absteigend 1456 Zahlen Startzeit: 19.11 17:09:49,996|Endezeit: 19.11 17:09:49,996| Diff: 0 ms Sortiert: true
+Quick Sort left Zufallszahlen Wechsel bei 75, 1456 Zahlen Startzeit: 19.11 17:09:49,965|Endezeit: 19.11 17:09:49,965| Diff: 0 ms Sortiert: true
+Quick Sort left aufsteigend 1456 Zahlen Startzeit: 19.11 17:09:49,965|Endezeit: 19.11 17:09:50,011| Diff: 46 ms Sortiert: true
+Quick Sort left absteigend 1456 Zahlen Startzeit: 19.11 17:09:50,011|Endezeit: 19.11 17:09:50,121| Diff: 110 ms Sortiert: true
+Quick Sort right Zufallszahlen Wechsel bei 75, 1456 Zahlen Startzeit: 19.11 17:09:49,965|Endezeit: 19.11 17:09:49,965| Diff: 0 ms Sortiert: true
+Quick Sort right aufsteigend 1456 Zahlen Startzeit: 19.11 17:09:49,965|Endezeit: 19.11 17:09:50,074| Diff: 109 ms Sortiert: true
+Quick Sort right absteigend 1456 Zahlen Startzeit: 19.11 17:09:50,074|Endezeit: 19.11 17:09:50,136| Diff: 62 ms Sortiert: true

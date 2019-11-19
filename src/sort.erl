@@ -49,17 +49,13 @@ qsort(PivotMethode, Liste, SwitchNumber) ->
 
     ListenLaenge = getListLength(Liste),
     
-    if  
-        % Insertionsort      
-        (ListenLaenge =< SwitchNumber) ->               
+    if        
+        (ListenLaenge =< SwitchNumber) ->    % Insertionsort           
             insertionS(Liste);    
-
-        % Quicksort
-        ListenLaenge > SwitchNumber ->            
+       
+        ListenLaenge > SwitchNumber ->       % Quicksort      
             Pivot = getPivotElement(PivotMethode, Liste),
-            % Pivot wird geloescht
-            ListeOhnePivot = Liste -- [Pivot],
-
+            ListeOhnePivot = Liste -- [Pivot], % Pivot wird geloescht
             qsort(PivotMethode, smallerList(Pivot, ListeOhnePivot), SwitchNumber) ++ [Pivot] ++ qsort(PivotMethode, largerList(Pivot, ListeOhnePivot), SwitchNumber)           
     end.
 
@@ -84,7 +80,6 @@ largerList(Pivot, [Head|Tail]) when Head >= Pivot ->
 
 largerList(Pivot, [_|Tail])  ->
     largerList(Pivot, Tail).
-
 
 %% ====================================================================
 
@@ -135,7 +130,7 @@ getLastElement([Head|[]]) ->
     Head;
 
 getLastElement([_|Tail]) ->
-        getLastElement(Tail).
+	getLastElement(Tail).
 
 %% ====================================================================
 
