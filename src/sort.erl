@@ -30,7 +30,7 @@ sortInsertion(SortierteListe, [Head|Tail]) ->
 %% ====================================================================
 
 insert(Element, [Head|SortierteListe], SortierteListeAnfang) when Element > Head ->
-    insert(Element, SortierteListe, SortierteListeAnfang++[Head]);
+    insert(Element, SortierteListe, SortierteListeAnfang ++ [Head]);
 
 insert(Element, [], SortierteListeAnfang) ->
     SortierteListeAnfang ++ [Element];
